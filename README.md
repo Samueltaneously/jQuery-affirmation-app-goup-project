@@ -21,7 +21,7 @@ Be sure to do these in order: No moving on to **Part Two** if you haven't finish
 ##### Part Three:
 * Users should have the ability to delete positive affirmations from the table.
 * Note: Recommended visual appearance of this feature:
-![delete](./images/part_three.png)
+ ![delete](./images/part_three.png)
 
 ## Stretch Goals:
 
